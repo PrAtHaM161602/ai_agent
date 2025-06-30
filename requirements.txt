@@ -1,0 +1,9 @@
+speechrecognition
+langchain
+langchain-openai
+langchain-google-genai
+beautifulsoup4
+requests
+pyfiglet
+colorama
+python-dotenv
