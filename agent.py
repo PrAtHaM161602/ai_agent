@@ -718,6 +718,7 @@ You are a **professional Content Writer AI Assistant**, trained to help users cr
         print(f"{i}. {k}")
         i+=1
     print(f"0. exit")
+    print("\t \t -By Pratham \n Github: https://github.com/PrAtHaM161602/")
     selected_sys_prompt = "daily tasks"
     selected = ""
     def get_sys_prompt():
