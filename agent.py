@@ -259,10 +259,10 @@ def init_ai(sys_prompt:str):
                   con.close()
              except:
                  pass
-             if len(open_port) == 0:
+         if len(open_port) == 0:
                 print(Fore.RED + f"No open ports found on {target}")
                 print(Fore.RED + "Exiting...")
-             else:        
+         else:        
                 print(Fore.GREEN + f"Found {len(open_port)} port(s) open")        
          return open_port
     try:
