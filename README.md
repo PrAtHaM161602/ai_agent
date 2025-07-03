@@ -19,9 +19,7 @@
 
 * 🔎 **Port Scanning** – Scans target IPs using your favorite tools (e.g., Nmap wrapper or custom scanner)
 * 🕷️ **Directory Bruteforcing** – Automatically runs directory enumeration (e.g., via `dirb` or `gobuster`)
-* 🧪 **Vulnerability Lookup** – Searches CVEs using natural language
-* 🌐 **Subdomain Discovery** – Passive recon using OSINT methods
-* 🎯 **Whois & DNS Lookup** – Extracts domain metadata
+
 ### 🧠 Example Commands
 
 ```bash
