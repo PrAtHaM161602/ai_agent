@@ -73,10 +73,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Create a `.env` file for your OpenAI API key:
+Create a `.env` file for your GEMINI API key:
 
 ```env
-OPENAI_API_KEY=your_api_key_here
+GOOGLE_API_KEY=your_api_key_here
 ```
 
 ---
