@@ -1,10 +1,10 @@
----
 
-# 🤖 AI Agent CLI – Automate Your Daily Tasks with Intelligence
+
+# AI Agent CLI – Automate Your Daily Tasks with Intelligence
 
 **AI Agent CLI** is a powerful command-line tool that acts as your personal assistant. It automates various daily tasks using intelligent agents powered by AI and integrates multiple utilities such as web scraping, searching, voice interaction, task execution, and more — all from your terminal.
 
----
+
 
 ## ✨ Features
 
